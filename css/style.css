@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+.text-color {
+  color: white;
+}
+
+.wImage {
+  text-align: center;
+}
+
+#weather-icon{
+  height: 10%;
+  width: 10%;
+}
+
+#app-title {
+  padding-top: 100px;
+  font-size: 60px;
+}
+
+#location-data {
+  font-size: 45px;
+}
+
+#weather-desc {
+  font-size: 30px;
+}
